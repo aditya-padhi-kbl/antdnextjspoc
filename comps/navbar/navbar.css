@@ -1,0 +1,12 @@
+.logo {
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+
+.logoDiv {
+    width: auto;
+    text-align: center;
+    overflow: auto;
+    padding-top: 40px;
+}
